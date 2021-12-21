@@ -1,0 +1,6 @@
+biến là một giá trị dữ liệu hoặc tên gọi tham chiếu đến 1 vùng nhớ trong bộ nhớ, là thành phần cốt lõi của ngôn ngữ lập trình
+int : số nguyên
+float : số thực 
+string : chuỗi ( andeptrai_yeu diemphuc)
+bool : kiểu luận lý ( true,..)
+char : ký tự (k, h, a, s,...)

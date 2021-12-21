@@ -1,0 +1,15 @@
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.csproj.AssemblyReference.cache
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.AssemblyInfoInputs.cache
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.AssemblyInfo.cs
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.csproj.CoreCompileInputs.cache
+C:\Users\Andoy\Desktop\toan\toan\bin\Debug\net6.0\toan.exe
+C:\Users\Andoy\Desktop\toan\toan\bin\Debug\net6.0\toan.deps.json
+C:\Users\Andoy\Desktop\toan\toan\bin\Debug\net6.0\toan.runtimeconfig.json
+C:\Users\Andoy\Desktop\toan\toan\bin\Debug\net6.0\toan.dll
+C:\Users\Andoy\Desktop\toan\toan\bin\Debug\net6.0\ref\toan.dll
+C:\Users\Andoy\Desktop\toan\toan\bin\Debug\net6.0\toan.pdb
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.dll
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\ref\toan.dll
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.pdb
+C:\Users\Andoy\Desktop\toan\toan\obj\Debug\net6.0\toan.genruntimeconfig.cache

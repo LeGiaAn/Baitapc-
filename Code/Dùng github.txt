@@ -1,0 +1,8 @@
+các bước làm việc với github
+git init
+git status
+git add .
+git commit -m " tên muốn đặt"
+git log
+git remote add origin https://github.com/LeGiaAn/An.git
+git push -u origin tên ở đây là master

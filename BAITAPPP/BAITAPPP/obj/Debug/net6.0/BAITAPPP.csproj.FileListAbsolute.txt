@@ -1,0 +1,5 @@
+C:\Users\Andoy\Desktop\New folder\BAITAPPP\BAITAPPP\obj\Debug\net6.0\BAITAPPP.csproj.AssemblyReference.cache
+C:\Users\Andoy\Desktop\New folder\BAITAPPP\BAITAPPP\obj\Debug\net6.0\BAITAPPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andoy\Desktop\New folder\BAITAPPP\BAITAPPP\obj\Debug\net6.0\BAITAPPP.AssemblyInfoInputs.cache
+C:\Users\Andoy\Desktop\New folder\BAITAPPP\BAITAPPP\obj\Debug\net6.0\BAITAPPP.AssemblyInfo.cs
+C:\Users\Andoy\Desktop\New folder\BAITAPPP\BAITAPPP\obj\Debug\net6.0\BAITAPPP.csproj.CoreCompileInputs.cache
